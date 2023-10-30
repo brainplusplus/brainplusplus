@@ -9,19 +9,19 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/) 
 
-  Java :
+### Java
   - https://muhammad-tri-wibowo.gitbook.io/java-tutorials/
   - https://github.com/brainplusplus/spring-boot-ddd
   - https://github.com/brainplusplus/simple-cuba-jpa-repositories
-  C# :
+### C# :
   - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
-  Go :
+### Go :
   - https://github.com/brainplusplus/rest-api-golang
   - https://github.com/brainplusplus/beego-crud-usermanagement
-  PHP :
+### PHP :
   - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
-
+### Info
 - 📫 How to reach me **akhmad.mib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
