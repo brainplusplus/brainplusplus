@@ -3,11 +3,24 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **PT Bitsolusitama Teknologi Nusantara**
 
+- 💬 Ask me about **C# / .NET, Java / Spring, PHP / Laravel, Go, Clean Architecture**
+
 - 🌱 I’m currently learning **DevSecOps, React, Vue, Clean Architecture, Rust**
 
 - 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/) 
 
-- 💬 Ask me about **C#, Java, PHP, Go, Clean Architecture**
+  Java :
+  - https://muhammad-tri-wibowo.gitbook.io/java-tutorials/
+  - https://github.com/brainplusplus/spring-boot-ddd
+  - https://github.com/brainplusplus/simple-cuba-jpa-repositories
+  C# :
+  - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
+  Go :
+  - https://github.com/brainplusplus/rest-api-golang
+  - https://github.com/brainplusplus/beego-crud-usermanagement
+  PHP :
+  - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
+  - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
 
 - 📫 How to reach me **akhmad.mib@gmail.com**
 
