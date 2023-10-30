@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevSecOps, React, Vue, Clean Architecture, Rust**
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo https://muhammad-tri-wibowo.gitbook.io/](https://medium.com/@muhammadtriwibowo https://muhammad-tri-wibowo.gitbook.io/)
+- 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/) 
 
 - 💬 Ask me about **C#, Java, PHP, Go, Clean Architecture**
 
