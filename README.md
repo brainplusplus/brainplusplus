@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevSecOps, React, Vue, Clean Architecture, Rust**
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@muhammadtriwibowo) and [Gitbook](https://muhammad-tri-wibowo.gitbook.io/)
   
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo-b12a8418/) or [My Email](mailto:akhmad.mib@gmail.com)
   
