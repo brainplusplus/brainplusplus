@@ -25,8 +25,6 @@
 ### PHP :
   - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
-### Info
-- 📫 How to reach me **akhmad.mib@gmail.com**
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
