@@ -7,8 +7,10 @@
 
 - 🌱 I’m currently learning **DevSecOps, React, Vue, Clean Architecture, Rust**
 
-- 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/) 
-
+- 📝 I regularly write articles on [https://medium.com/@muhammadtriwibowo](https://medium.com/@muhammadtriwibowo) [https://muhammad-tri-wibowo.gitbook.io/](https://muhammad-tri-wibowo.gitbook.io/)
+  
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo-b12a8418/) or [My Email](mailto:akhmad.mib@gmail.com)
+  
 ## Sample Code And Tutorial
 ### Java
   - https://muhammad-tri-wibowo.gitbook.io/java-tutorials/
@@ -25,7 +27,7 @@
 ### Info
 - 📫 How to reach me **akhmad.mib@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://medium.com/@muhammadtriwibowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadtriwibowo" height="30" width="40" /></a>
 </p>
