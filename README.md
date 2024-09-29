@@ -25,6 +25,8 @@
 ### PHP :
   - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
+### NextJS :
+  - https://github.com/brainplusplus/compare-config
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
