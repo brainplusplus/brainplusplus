@@ -20,6 +20,7 @@
 ### C# :
   - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
 ### Go :
+  - https://github.com/brainplusplus/hexagonal-go-grpc
   - https://github.com/brainplusplus/rest-api-golang
   - https://github.com/brainplusplus/beego-crud-usermanagement
 ### PHP :
