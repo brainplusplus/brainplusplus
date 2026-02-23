@@ -13,6 +13,8 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo-b12a8418/) or [My Email](mailto:akhmad.mib@gmail.com)
   
 ## Sample Code And Tutorial
+### Rust
+  - https://github.com/brainplusplus/gpu-vram-diagnostics
 ### Java
   - https://muhammad-tri-wibowo.gitbook.io/java-tutorials/
   - https://github.com/brainplusplus/spring-boot-ddd
