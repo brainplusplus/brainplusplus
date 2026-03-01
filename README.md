@@ -14,6 +14,7 @@
   
 ## Sample Code And Tutorial
 ### Rust
+  - https://github.com/brainplusplus/supa-rs
   - https://github.com/brainplusplus/rust-pandoc-server
   - https://github.com/brainplusplus/gpu-vram-diagnostics
 ### Java
