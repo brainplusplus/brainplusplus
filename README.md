@@ -14,7 +14,7 @@
   
 ## Sample Code And Tutorial
 ### Rust
-  - https://github.com/brainplusplus/supa-rs
+  - https://github.com/brainplusplus/supa-rs (supabase on premise but with rust and lightweight, still development)
   - https://github.com/brainplusplus/rust-pandoc-server
   - https://github.com/brainplusplus/gpu-vram-diagnostics
 ### Java
@@ -24,9 +24,9 @@
 ### C# :
   - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
 ### Go :
+  - https://github.com/brainplusplus/hexagonal-go-grpc
   - https://github.com/brainplusplus/9ed (like zed editor, but web version)
   - https://github.com/brainplusplus/pg_fast_data_transfer
-  - https://github.com/brainplusplus/hexagonal-go-grpc
   - https://github.com/brainplusplus/rest-api-golang
   - https://github.com/brainplusplus/beego-crud-usermanagement
 ### PHP :
