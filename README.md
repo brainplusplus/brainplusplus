@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevSecOps, React, Vue, Clean Architecture, Rust**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@muhammadtriwibowo) and [Gitbook](https://muhammad-tri-wibowo.gitbook.io/)
+- 📝 Sometimes i write articles on [Medium](https://medium.com/@muhammadtriwibowo) and [Gitbook](https://muhammad-tri-wibowo.gitbook.io/)
   
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo/) or [My Email](mailto:akhmad.mib@gmail.com)
   
@@ -139,8 +139,8 @@
 
 ## ⚡ About Me
 
-- 💻 Backend Engineer with 13+ years experience
-- 🚀 Building scalable systems with Go, Java, .NET, Node.js
+- 💻 AI + Fullstack Engineer with 13+ years experience
+- 🚀 Building scalable systems with Node.js, Python, Go, Java, .NET, PHP 
 - ☁️ Interested in Cloud, Kubernetes, AI/LLM, and DevOps
 - 🛠 Creator of tools & experimental projects
 
