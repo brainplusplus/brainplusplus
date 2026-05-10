@@ -34,13 +34,107 @@
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
 ### NextJS :
   - https://github.com/brainplusplus/compare-config
+## 🌐 Connect with Me
 
-<h3 align="left">Follow me:</h3>
 <p align="left">
-<a href="https://medium.com/@muhammadtriwibowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadtriwibowo" height="30" width="40" /></a>
+  <a href="https://medium.com/@muhammadtriwibowo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="medium" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brainplusplus&show_icons=true&locale=en&layout=compact" alt="brainplusplus" /></p>
+## 🚀 Tech Stack
+
+<p align="left">
+
+<!-- Backend -->
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=go" alt="go"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=java" alt="java"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".net"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs"/>
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
+</a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask"/>
+</a>
+
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=vue" alt="vue"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
+</a>
+
+<!-- Database -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+</a>
+<a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis"/>
+</a>
+
+<!-- DevOps -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws"/>
+</a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx"/>
+</a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins"/>
+</a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq"/>
+</a>
+
+<!-- Tools -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv"/>
+</a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ About Me
+
+- 💻 Backend Engineer with 13+ years experience
+- 🚀 Building scalable systems with Go, Java, .NET, Node.js
+- ☁️ Interested in Cloud, Kubernetes, AI/LLM, and DevOps
+- 🛠 Creator of tools & experimental projects
+
