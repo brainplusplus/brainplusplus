@@ -37,11 +37,14 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://medium.com/@muhammadtriwibowo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="medium" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-tri-wibowo/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="medium" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/muhammad-tri-wibowo/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+      alt="LinkedIn"
+      width="32"
+      height="32"
+      style="vertical-align: middle;"
+    />
   </a>
 </p>
 
