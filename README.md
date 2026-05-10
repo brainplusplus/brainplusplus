@@ -24,7 +24,7 @@
 ### C# :
   - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
 ### Go :
-  - https://github.com/brainplusplus/go-webttyd (like zed editor, but web version)
+  - https://github.com/brainplusplus/9ed (like zed editor, but web version)
   - https://github.com/brainplusplus/pg_fast_data_transfer
   - https://github.com/brainplusplus/hexagonal-go-grpc
   - https://github.com/brainplusplus/rest-api-golang
