@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@muhammadtriwibowo) and [Gitbook](https://muhammad-tri-wibowo.gitbook.io/)
   
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo-b12a8418/) or [My Email](mailto:akhmad.mib@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/muhammad-tri-wibowo/) or [My Email](mailto:akhmad.mib@gmail.com)
   
 ## Sample Code And Tutorial
 ### Rust
@@ -39,6 +39,9 @@
 <p align="left">
   <a href="https://medium.com/@muhammadtriwibowo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="medium" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-tri-wibowo/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="medium" width="40" height="40"/>
   </a>
 </p>
 
