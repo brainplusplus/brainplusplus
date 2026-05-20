@@ -34,7 +34,8 @@
   - https://github.com/brainplusplus/easyerp (Modular ERP with Laravel + Filament)
   - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
-### NextJS :
+### NodeJS, React, Typescript :
+  - https://github.com/brainplusplus/boilerplate-saas-fullstack-go-react
   - https://github.com/brainplusplus/compare-config
 ## 🌐 Connect with Me
 
