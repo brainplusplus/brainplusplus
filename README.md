@@ -31,6 +31,7 @@
 ### C# :
   - https://github.com/brainplusplus/net-core-clean-architecture-weather-app
 ### PHP :
+  - https://github.com/brainplusplus/easyerp (Modular ERP with Laravel + Filament)
   - https://github.com/brainplusplus/laravel-rest-api-jwt-tdd
   - https://github.com/brainplusplus/simpel-laravel-vue-CRUD
 ### NextJS :
