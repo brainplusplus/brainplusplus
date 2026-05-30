@@ -16,6 +16,7 @@
   - https://github.com/brainplusplus/rust-pandoc-server
   - https://github.com/brainplusplus/gpu-vram-diagnostics
 ### Go :
+  - https://github.com/brainplusplus/go-opencv (OpenCV for Go, free CGO, multiplatform, and compatible OpenCV API)
   - https://github.com/brainplusplus/hexagonal-go-grpc
   - https://github.com/brainplusplus/9ed (like zed editor, but web version)
   - https://github.com/brainplusplus/go-camoufox (Anti-detect browser in Go, go version of camoufox)
